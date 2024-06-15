@@ -15,4 +15,4 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/mtm-frontend-yourname.git
+   git clone  https://github.com/Aditya11846/mtm-frontend-AdityaSingh.git
